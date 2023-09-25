@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d97bcc4-ba65-4ec1-ace3-e4d7180fe3fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b5DdXE52m4xsSkLe7ZmDo3wW3z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/elevator-master/junit-platform-console-standalone-1.7.0-M1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.ElevatorTest.shouldDoNothingIfNoPeopleWaiting">
+    <configuration name="ElevatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elevator-master (1)" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="app.ElevatorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorTest.shouldAssumePeopleDontEnterLiftIfGoingWrongDirection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elevator-master (1)" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="app.ElevatorTest" />
+      <option name="METHOD_NAME" value="shouldAssumePeopleDontEnterLiftIfGoingWrongDirection" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorTest.shouldDoNothingIfNoPeopleWaiting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elevator-master (1)" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="app.ElevatorTest" />
+      <option name="METHOD_NAME" value="shouldDoNothingIfNoPeopleWaiting" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorTest.shouldGetAverageForRamdomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elevator-master (1)" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="app.ElevatorTest" />
+      <option name="METHOD_NAME" value="shouldGetAverageForRamdomTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="ElevatorTest.java" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="elevator-master (1)" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="ElevatorTest.java" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElevatorTest.shouldDoNothingIfNoPeopleWaiting" />
+        <item itemvalue="JUnit.ElevatorTest.shouldAssumePeopleDontEnterLiftIfGoingWrongDirection" />
+        <item itemvalue="JUnit.ElevatorTest" />
+        <item itemvalue="JUnit.ElevatorTest.shouldGetAverageForRamdomTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d97bcc4-ba65-4ec1-ace3-e4d7180fe3fd" name="Default Changelist" comment="" />
+      <created>1587913149219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587913149219</updated>
+      <workItem from="1587913152046" duration="260000" />
+      <workItem from="1587913430154" duration="545000" />
+      <workItem from="1587914002517" duration="357000" />
+      <workItem from="1587914378716" duration="148000" />
+      <workItem from="1587914545759" duration="656000" />
+      <workItem from="1587915439116" duration="893000" />
+      <workItem from="1587916363054" duration="468000" />
+      <workItem from="1587916857542" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="13" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587916622131">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="95" y="13" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916622131" />
+    <state x="370" y="142" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587916618854">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="370" y="142" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916618854" />
+    <state x="481" y="54" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1587916793742">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="481" y="54" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916793742" />
+    <state x="442" y="115" key="FileChooserDialogImpl" timestamp="1587914506386">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="442" y="115" key="FileChooserDialogImpl/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587914506386" />
+    <state width="1237" height="343" key="GridCell.Tab.0.bottom" timestamp="1587916906924">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.0.bottom/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916906924" />
+    <state width="1237" height="343" key="GridCell.Tab.0.center" timestamp="1587916906924">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.0.center/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916906924" />
+    <state width="1237" height="343" key="GridCell.Tab.0.left" timestamp="1587916906924">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.0.left/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916906924" />
+    <state width="1237" height="343" key="GridCell.Tab.0.right" timestamp="1587916906924">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="343" key="GridCell.Tab.0.right/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916906924" />
+    <state x="221" y="96" key="IDE.errors.dialog" timestamp="1587913978457">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="221" y="96" key="IDE.errors.dialog/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587913978457" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1587916825708">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916825708" />
+    <state x="396" y="254" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587916820362">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="396" y="254" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.-475.1280.720/0.0.1280.720@0.0.1280.720" timestamp="1587916820362" />
+  </component>
+</project>
